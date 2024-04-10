@@ -1,5 +1,5 @@
 {
-    "name": "ALONE HERE.",
+    "name": "SPAMXD.",
     "logo": "https://telegra.ph//file/9e8ce3092848a1bc5d9d6.jpg",
     "keywords": [
         "telegram",
@@ -8,7 +8,7 @@
         "PythonX",
         "SpamBots"
     ],
-    "repository": "https://github.com/ItZxSTaR/XBOTS",
+    "repository": "https://github.com/Sagexdd/SPAMXD",
     "env": {
       "BOT_TOKEN": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
